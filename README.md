@@ -151,7 +151,7 @@ saida.txt
 
 ---
 
-## 🎯 Características Técnicas
+## Características Técnicas
 
 * Implementação própria da Árvore AVL
 * Balanceamento automático
